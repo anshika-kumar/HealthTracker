@@ -61,7 +61,7 @@ const About = () => {
                 <div className="p-6  ">
                   <div className="flex justify-center ">
                     <img src={name} className="h-4 w-4 mt-1 " alt="name"></img>
-                    <h1 className="ml-2">Eshani Ghori</h1>
+                    <h1 className="ml-2">Eshani Gohri</h1>
                   </div>
                   <div className="flex justify-center gap-10 mt-6 ">
                     <a href="">
